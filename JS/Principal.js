@@ -4,9 +4,9 @@
 |* Se tienen las siguientes personas: Luis (15), Ana (19), José (21), Carmen (17), Rosa (18), 
 |* José (22), María (17), Luz (19), Rafael (23), Liz (15), Marcos (20) y Leo (16); la salida 
 |* requerida presenta el siguiente formato:
-|* Cantidad de personas: 10
+|* Cantidad de personas: 12
 |* Cantidad de personas mayor de edad: 7
-|* Porcentaje de personas mayor de edad: 70% 
+|* Porcentaje de personas mayor de edad: 58.33% 
 */
 import Cl_persona from "./Cl_persona.js";
 import Cl_mayor from "./Cl_mayor.js";
